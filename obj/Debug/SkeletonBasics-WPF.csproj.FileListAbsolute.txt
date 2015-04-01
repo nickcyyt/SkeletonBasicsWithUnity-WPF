@@ -1,0 +1,14 @@
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\App.g.cs
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+D:\Nickchu\college\陳良基教授專題\Kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+D:\Nickchu\college\Research_Chen\KinectSeniorSecondSem\SkeletonBasicsWithUnity-WPF\obj\Debug\SkeletonBasics-WPF.exe
+D:\Nickchu\college\Research_Chen\KinectSeniorSecondSem\SkeletonBasicsWithUnity-WPF\obj\Debug\SkeletonBasics-WPF.pdb
